@@ -1,1 +1,3 @@
-olá meu nome é Fred
+olá meu nome é Fred.
+
+Primeira atualização
